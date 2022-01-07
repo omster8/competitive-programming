@@ -1,5 +1,6 @@
 # competitive-programming
-Contains code for my adventures in competitive programming over the years, mostly in C++ but also in Java.
+Contains solutions for competitive programming problems, mostly in C++ but also some Java.
+Also has my Python code for Coursera's Bioinformatics for Beginners by UC San Diego.
 
 DMOJ: op8
 
